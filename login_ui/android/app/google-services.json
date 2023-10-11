@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207816454655",
+    "project_id": "loginauthentication-b56f6",
+    "storage_bucket": "loginauthentication-b56f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207816454655:android:6d8e6f7a636834fd71b7ca",
+        "android_client_info": {
+          "package_name": "com.example.login_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmpmEU0C6lRpX3h1ZtTDSFyqDWAGle4gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
